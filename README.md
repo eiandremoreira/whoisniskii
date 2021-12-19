@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/github/followers/Niskii2?label=Follow&style=social" alt="github followers" /><br>
+    <img src="https://img.shields.io/github/followers/Niskii3?label=Follow&style=social" alt="github followers" /><br>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Niskii2&show_icons=true&custom_title=Niskii_%20Github%20Stats&theme=midnight-purple" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niskii2&layout=compact&theme=midnight-purple" alt="Languages." />
+    <img src="https://github-readme-stats.vercel.app/api?username=Niskii3&show_icons=true&custom_title=Niskii_%20Github%20Stats&theme=midnight-purple" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niskii3&layout=compact&theme=midnight-purple" alt="Languages." />
 
 </p>
 <hr>
@@ -22,5 +22,3 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 
 <hr>
-
-![Snake animation](https://github.com/niskii2/niskii2/blob/output/github-contribution-grid-snake.svg)
