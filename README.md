@@ -1,16 +1,26 @@
-### Hi there 👋
+<p align="center">
+    <img src="https://discord.c99.nl/widget/theme-4/847865068657836033.png"/>
+</p>
 
-<!--
-**Niskii3/Niskii3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img src="https://img.shields.io/github/followers/Niskii2?label=Follow&style=social" alt="github followers" /><br>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Niskii2&show_icons=true&custom_title=Niskii_%20Github%20Stats&theme=midnight-purple" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niskii2&layout=compact&theme=midnight-purple" alt="Languages." />
 
-Here are some ideas to get you started:
+</p>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
+
+
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
+![Deno](https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logo=deno)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+
+<hr>
+
+![Snake animation](https://github.com/niskii2/niskii2/blob/output/github-contribution-grid-snake.svg)
