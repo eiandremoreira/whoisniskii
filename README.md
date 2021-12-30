@@ -22,6 +22,6 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 
 ![PostgreSQL](https://img.shields.io/badge/-Postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=0064a5)
-![MySQL](https://img.shields.io/badge/-mysql-000000?style=for-the-badge&logo=mysql&logoColor=f29111)
+![MySQL](https://img.shields.io/badge/-mysql-000000?style=for-the-badge&logo=mysql&logoColor=00758f)
 
 <hr>
