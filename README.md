@@ -20,6 +20,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Deno](https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logo=deno)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![PostgreSQL](https://img.shields.io/badge/-Postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=339933)
+![PostgreSQL](https://img.shields.io/badge/-Postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=0064a5)
 
 <hr>
