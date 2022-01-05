@@ -20,8 +20,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Deno](https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logo=deno)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=F05032)
 
-![PostgreSQL](https://img.shields.io/badge/-Postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=0064a5)
 ![MySQL](https://img.shields.io/badge/-mysql-000000?style=for-the-badge&logo=mysql&logoColor=00758f)
+![MongoDB](https://img.shields.io/badge/-mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=589636)
 
 <hr>
