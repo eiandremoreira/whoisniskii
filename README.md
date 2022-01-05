@@ -22,7 +22,6 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DBFB)
 
-![MySQL](https://img.shields.io/badge/-mysql-000000?style=for-the-badge&logo=mysql&logoColor=00758f)
 ![MongoDB](https://img.shields.io/badge/-mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=589636)
 
 <hr>
