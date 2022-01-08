@@ -22,7 +22,7 @@
 ![Deno](https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logo=deno)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DBFB)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=61DBFB)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=0db7ed)
 
 ![MongoDB](https://img.shields.io/badge/-mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=589636)
 
