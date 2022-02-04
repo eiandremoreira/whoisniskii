@@ -16,7 +16,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
-
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Deno](https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logo=deno)
