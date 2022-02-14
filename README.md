@@ -1,6 +1,5 @@
 <p align="center">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Niskii3&show_icons=true&custom_title=Niskii_%20Github%20Stats&theme=midnight-purple" alt="stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niskii3&layout=compact&theme=midnight-purple" alt="Languages." />
 
 </p>
@@ -11,14 +10,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
-
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
-![Deno](https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logo=deno)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DBFB)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=0db7ed)
-
-![MongoDB](https://img.shields.io/badge/-mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=589636)
 
 <hr>
 
