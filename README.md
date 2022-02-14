@@ -3,7 +3,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niskii3&layout=compact&theme=midnight-purple" alt="Languages." />
 
 </p>
-<hr>
 
 <br>
 
