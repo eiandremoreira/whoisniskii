@@ -12,8 +12,4 @@
 
 <hr>
 
-  <p align="center">
-  <a href="https://ko-fi.com/niskii" target="_blank">
-    <img height="36" style="border:0px;height:36px;" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=2" border="0" alt='Buy a coffee for me ko-fi.com' />
-  </a>
-</p>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O87SKL3)
